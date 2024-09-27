@@ -4,6 +4,7 @@
       "name": "Francis Boncales",
       "photo": "artist1_photo.jpg",
       "description": "Francis Boncales is a Filipino-American illustrator from Glendale, CA. He studied illustration at The Rhode Island School of Design and has worked on various animated projects for Paramount, Warner Brothers, Netflix and Disney. Outside of work, you can find Francis landscape painting on hiking trails, sketching at coffee shops or exploring new places with his wife. He has a deep passion for color and light and gathers inspiration from Impressionist painters, picture books, cinema, travel, nostalgia and seemingly mundane moments.",
+      "link" : "https://www.instagram.com/francisboncales/",
       "artworks": [
         {
           "title": "Altare della Patria (Rome, Italy), 2020",
@@ -26,27 +27,86 @@
       ]
     },
     {
-      "name": "Artist 2",
-      "photo": "artist2_photo.jpg",
-      "description": "Description for Artist 2. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "name": "Rachel Verity",
+      "photo": "me12.jpg",
+      "description": "Verity is a painter and ceramicist, originally from Northern California, who currently resides in Los Angeles. She loves using the medium of clay to explore and bring joy, play and energy into everyday items. Her work is heavily inspired by local LA nature, old textile patterns, and illuminated manuscripts. Verity uses her background as a painter to create maximalist and decorative pieces with a main focus in functional ware (and occasionally decorative ware).",
+      "link":"https://www.instagram.com/francisboncales/",
       "artworks": [
         {
-          "title": "Nature's Call",
-          "filename": "artist2_artwork1.jpg",
-          "details": "Watercolor, 2019",
+          "title": "Flower Pitcher",
+          "filename": "artist4_artwork1.jpg",
+          "details": "Stoneware vase with underglaze, blue glazed interior",
+          "price" : "$150"
+        },
+        {
+          "title": "Elyria Canyon",
+          "filename": "artist4_artwork2.jpg",
+          "details": "Stoneware vase with underglaze and black glazed interior",
           "price" : "$400"
         },
         {
-          "title": "Urban Dreams",
-          "filename": "artist2_artwork2.jpg",
-          "details": "Mixed media, 2021",
-          "price" : "$400"
+          "title": "Studded Vase",
+          "filename": "artist4_artwork3.jpg",
+          "details": "Porcelain vase with underglaze, 22k gold luster, black interior",
+          "price" : "$450"
         },
         {
-          "title": "Serenity",
-          "filename": "artist2_artwork3.jpg",
-          "details": "Sculpture, 2020",
+          "title": "Botanical Planter",
+          "filename": "artist4_artwork4.jpg",
+          "details": "Porcelain planter with underglaze, white matte interior",
           "price" : "$400"
+        }
+      ]
+    },
+    {
+      "name": "Ellen Surrey",
+      "photo": "Surrey_Headshot_PhotoJessicaWatkins.jpg",
+      "description": "Ellen Surrey is an illustrator from sunny Los Angeles, California. Blending her love of mid-century design and vintage children’s books, Ellen enjoys finding beauty in the past and colorfully sharing it with a contemporary audience. Her work has appeared in The New York Times, The LA Times and most recently as USPS postage stamps. You can view her portfolio at ellensurrey.com. Photo by Jessica Watkins.",
+      "link": "https://ellensurrey.com/",
+      "artworks": [
+        {
+          "title": "Cabazon",
+          "filename": "artist3_artwork1.jpg",
+          "details": "8x8\" Giclee Print (9.7 x 9.75\" framed)",
+          "price" : "$30"
+        },
+        {
+          "title": "Saga Motor Hotel",
+          "filename": "artist3_artwork2.jpg",
+          "details": "8x10\" Giclee Print (12.75 x 16.75\" framed)",
+          "price" : "$40"
+        }
+      ]
+    },
+    {
+      "name": "Natalie Andrewson",
+      "photo": "Headshot_2022_og.jpg",
+      "description": "Natalie Andrewson is an illustrator, comic artist, and Riso printmaker. She grew up in North Carolina loving the mountains and all things growing wild in the woods. She’s made work for all different types of clients and projects, always straying more and more fantastical with each piece. She’s worked for clients like Apple TV+, Disney, The New York Times, First Second Books, and Wizards of the Coast, and has recently focused on more personal lead projects on the Riso. She makes a new fantasy Riso print each month for her Riso print subscription via patreon.",
+      "link": "https://www.natalieandrewson.com/",
+      "artworks": [
+        {
+          "title": "Mountain Dreams",
+          "filename": "artist0_artwork1.jpg",
+          "details": "11 x 17\" Riso print",
+          "price" : "$40"
+        },
+        {
+          "title": "Dragon Witch",
+          "filename": "artist0_artwork2.jpg",
+          "details": "8 1/2 x 11\" Riso print",
+          "price" : "$30"
+        },
+        {
+          "title": "Beyond the Waterfall Town",
+          "filename": "artist0_artwork3.jpg",
+          "details": "8 1/2 x 11\" Riso print",
+          "price" : "$30"
+        },
+        {
+          "title": "Fall Fairy",
+          "filename" : "artist0_artwork4.jpg",
+          "details": "8 1/2 x 11\" Riso print",
+          "price" : "$30"
         }
       ]
     }

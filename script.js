@@ -67,10 +67,18 @@ function createArtistSection(artist) {
     name.textContent = artist.name;
 
     const description = document.createElement('p');
+    description.classList.add('artist-description');
     description.textContent = artist.description;
+
+    const link = document.createElement('a');
+    link.href = artist.link;
+    link.textContent = "Check out their other work";
+    link.classList.add('artist-link');
+    link.target = "_blank"; // Opens link in a new tab
 
     textContainer.appendChild(name);
     textContainer.appendChild(description);
+    textContainer.appendChild(link);
 
     // Combine photo and text
     artistInfo.appendChild(photoContainer);

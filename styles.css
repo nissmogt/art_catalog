@@ -97,6 +97,24 @@ main {
     margin-top: 0;
 }
 
+.artist-link {
+    display: inline-block;
+    margin-top: 0.5rem;
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.artist-link:hover {
+    color: #004080;
+    text-decoration: none;
+}
+
+.artist-description {
+    margin-bottom: 0.5rem;
+}
+
 .artist-images {
     display: flex;
     flex-wrap: wrap;
