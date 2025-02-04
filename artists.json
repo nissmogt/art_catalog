@@ -1,112 +1,126 @@
 {
   "artists": [
     {
-      "name": "Francis Boncales",
-      "photo": "artist1_photo.jpg",
-      "description": "Francis Boncales is a Filipino-American illustrator from Glendale, CA. He studied illustration at The Rhode Island School of Design and has worked on various animated projects for Paramount, Warner Brothers, Netflix and Disney. Outside of work, you can find Francis landscape painting on hiking trails, sketching at coffee shops or exploring new places with his wife. He has a deep passion for color and light and gathers inspiration from Impressionist painters, picture books, cinema, travel, nostalgia and seemingly mundane moments.",
-      "link" : "https://www.instagram.com/francisboncales/",
+      "name": "Layla Alamillo (she/they)",
+      "photo": "artist1.jpg",
+      "description": "I’m Layla Alamillo. I’m a paper artist and book designer based in Northeast Los Angeles. I create work inspired by the things I know well and observe in my everyday surroundings. Drawing from familiar landscapes, objects, and moments, I transform these details into tactile pieces of art.",
+      "link" : "https://www.instagram.com/clown_moments_",
       "artworks": [
         {
-          "title": "Altare della Patria (Rome, Italy), 2020",
+          "title": "Lantern (2022)",
           "filename": "artist1_artwork1.jpg",
-          "details": "Art Dimensions: 5 x 7, Frame Dimensions: 11 x 13 x 3/4, Medium: Gouache",
-          "price" : "$400"
+          "details": "Medium: Paper. Large scale folded paper lanterns with light source.",
+          "price" : ""
         },
         {
-          "title": "Outside Osteria Vini E Vecchi Sapori Restaurant (Rome, Italy), 2020",
-          "filename": "artist1_artwork2.jpg",
-          "details": "Art Dimensions: 6 x 6, Frame Dimensions: 11 3/4 x 11 3/4 x 1 3/8, Medium: Gouache",
-          "price" : "$400"
-        },
-        {
-          "title": "Dinosaur Caves Park, 2020",
-          "filename": "artist1_artwork3.jpg",
-          "details": "Art Dimensions: 6 x 6, Frame Dimensions: 11 3/4 x 11 3/4 x 1 3/8, Medium: Gouache",
-          "price" : "$400"
+          "title": "Building 13 (2024)",
+          "filename": "artist1_artwork2.png",
+          "details": "Medium: Various paper bound together by thread. An assemblage of paper - a visual love letter to Building 13.",
+          "price" : ""
         }
       ]
     },
     {
-      "name": "Rachel Verity",
-      "photo": "me12.jpg",
-      "description": "Verity is a painter and ceramicist, originally from Northern California, who currently resides in Los Angeles. She loves using the medium of clay to explore and bring joy, play and energy into everyday items. Her work is heavily inspired by local LA nature, old textile patterns, and illuminated manuscripts. Verity uses her background as a painter to create maximalist and decorative pieces with a main focus in functional ware (and occasionally decorative ware).",
-      "link":"https://www.instagram.com/francisboncales/",
+      "name": "Jennica Cabral (she/her)",
+      "photo": "artist2.jpg",
+      "description": "Hello, I’m Jennica Cabral, a Mexican-American digital artist. I like to use my experiences to influence and be expressed in my art. My experiences branch from illustrations to photography, to logo and graphic design. I have used my enthusiasm for art and design to build a strong work ethic and skills. Trained in Adobe Creative Suite and have a great understanding of creative design principles. I am constantly inspired by the world around me and bringing that to life through my illustrations.",
+      "link": "https://www.instagram.com/artsy_jenn_",
       "artworks": [
         {
-          "title": "Flower Pitcher",
-          "filename": "artist4_artwork1.jpg",
-          "details": "Stoneware vase with underglaze, blue glazed interior",
-          "price" : "$150"
+          "title": "Mug Cafe (2024)",
+          "filename": "artist2_artwork1.png",
+          "details": "Medium: Digital. A mug being used as a cafe with outside seating made of thimbles and bobbins",
+          "price" : ""
         },
         {
-          "title": "Elyria Canyon",
-          "filename": "artist4_artwork2.jpg",
-          "details": "Stoneware vase with underglaze and black glazed interior",
-          "price" : "$400"
+          "title": "Book Tent (2024)",
+          "filename": "artist2_artwork2.png",
+          "details": "Medium: Digital. A book being used as a tent for a cat with pencils stacked on the side like logs of wood and pencil shavings used for the fire.", 
+          "price" : ""
         },
         {
-          "title": "Studded Vase",
-          "filename": "artist4_artwork3.jpg",
-          "details": "Porcelain vase with underglaze, 22k gold luster, black interior",
-          "price" : "$450"
-        },
-        {
-          "title": "Botanical Planter",
-          "filename": "artist4_artwork4.jpg",
-          "details": "Porcelain planter with underglaze, white matte interior",
-          "price" : "$400"
+          "title": "Can Apartment (2024)",
+          "filename": "artist2_artwork3.png",
+          "details": "Medium: Digital. a tall can being used as an apartment complex adorned with plants growing out of the top and draping along the sides along with a store front opening and potted plants at the base.",
+          "price" : ""
         }
       ]
     },
     {
-      "name": "Ellen Surrey",
-      "photo": "Surrey_Headshot_PhotoJessicaWatkins.jpg",
-      "description": "Ellen Surrey is an illustrator from sunny Los Angeles, California. Blending her love of mid-century design and vintage children’s books, Ellen enjoys finding beauty in the past and colorfully sharing it with a contemporary audience. Her work has appeared in The New York Times, The LA Times and most recently as USPS postage stamps. You can view her portfolio at ellensurrey.com. Photo by Jessica Watkins.",
-      "link": "https://ellensurrey.com/",
+      "name": "Jenna DoQui (she/her)",
+      "photo":"artist3.jpg",
+      "description": "I'm Jenna, a multimedia artist. I use my unique spatial awareness from studying landscape architecture to create my pieces. My art is a warm and nostalgic exploration of landscapes at different scales. It is rich in color and contrast, exploring form and movement through illustrations found in scientific journals, mixed with the playfulness of late 20th-century album art. Each piece offers a microscopic view of an imagined world.",
+      "link": "https://www.instagram.com/jenba.__/",
       "artworks": [
         {
-          "title": "Cabazon",
+          "title": "The blue lagoon (2024)",
           "filename": "artist3_artwork1.jpg",
-          "details": "8x8\" Giclee Print (9.7 x 9.75\" framed)",
-          "price" : "$30"
+          "details": "Medium: cyanotype ink and digital painting on archival paper",
+          "price" : ""
         },
         {
-          "title": "Saga Motor Hotel",
+          "title": "Glimmer (2024)",
+          "filename": "artist3_artwork3.jpg",
+          "details": "Medium: digital painting, ink and colored pencil on archival paper",
+          "price" : ""
+        },
+        {
+          "title": "Apple (2024)",
           "filename": "artist3_artwork2.jpg",
-          "details": "8x10\" Giclee Print (12.75 x 16.75\" framed)",
-          "price" : "$40"
+          "details": "Medium: cyanotype ink, apples, and digital drawing on archival paper", 
+          "price" : ""
         }
       ]
     },
     {
-      "name": "Natalie Andrewson",
-      "photo": "Headshot_2022_og.jpg",
-      "description": "Natalie Andrewson is an illustrator, comic artist, and Riso printmaker. She grew up in North Carolina loving the mountains and all things growing wild in the woods. She’s made work for all different types of clients and projects, always straying more and more fantastical with each piece. She’s worked for clients like Apple TV+, Disney, The New York Times, First Second Books, and Wizards of the Coast, and has recently focused on more personal lead projects on the Riso. She makes a new fantasy Riso print each month for her Riso print subscription via patreon.",
-      "link": "https://www.natalieandrewson.com/",
+      "name": "Ross Gomez (he/they)",
+      "photo": "artist4.jpg",
+      "description": "Hi, I'm Ross!! I'm a queer, trans, Latine multimedia explorer, from the CA high desert. My interests include printmaking, painting, illustration, and finding new mediums for my work. My biggest inspirations for creating have always been drawn from the materials I use, the need for expression, and ideas about perception.",
+      "link": "https://www.instagram.com/Rossdraws02",
       "artworks": [
         {
-          "title": "Mountain Dreams",
-          "filename": "artist0_artwork1.jpg",
-          "details": "11 x 17\" Riso print",
-          "price" : "$40"
+          "title": "Flag (2023)",
+          "filename": "artist4_artwork1.jpg",
+          "details": "Medium: Block printed on sewn cotton fabric, hung by a chain. I bring symbolism of my trans experience into this piece: breaking the old self, healing, discovery, and comfort in the real identity (scissors, bandaids, and a heart shaped trans symbol that make up the stripes). This flag pattern was made by carving erasers and using fabric ink to stamp the cotton, ensuring long term durability. Front and center is a unifying piece, here representing a reminder that trans rights are still being fought for. The depiction of a weapon at rest but ready to be used if needed. The full piece is sewn by hand and machine, with the chain element added last for hanging/display.",
+          "price" : ""
         },
         {
-          "title": "Dragon Witch",
-          "filename": "artist0_artwork2.jpg",
-          "details": "8 1/2 x 11\" Riso print",
-          "price" : "$30"
+          "title": "Crunchy Hands Doodle no. 6 (2024)",
+          "filename": "artist4_artwork2.jpg",
+          "details": "Medium: paint marker on paper. These illustrations are part of an ongoing series of self portraits focused on exploring style, body language, self perception, and commitment to maintaining a steady comfort with low risk creation. The core of this series is the fact that the majority of them are carried with me everywhere in my sketchbook, and I add to them wherever and whenever I can.", 
+          "price" : ""
         },
         {
-          "title": "Beyond the Waterfall Town",
-          "filename": "artist0_artwork3.jpg",
-          "details": "8 1/2 x 11\" Riso print",
-          "price" : "$30"
+          "title": "Crunchy Hands Doodle no. 8 (2024)",
+          "filename": "artist4_artwork3.webp",
+          "details": "Medium: paint marker on canvas panel. These illustrations are part of an ongoing series of self portraits focused on exploring style, body language, self perception, and commitment to maintaining a steady comfort with low risk creation. The core of this series is the fact that the majority of them are carried with me everywhere in my sketchbook, and I add to them wherever and whenever I can.", 
+          "price" : ""
+        }
+      ]
+    },
+    {
+      "name": "Hui Ying (Caitlin Hoey) (she/her)",
+      "photo": "artist5.jpg",
+      "description": "Hui Ying is a Chinese-born adoptee based in East LA. Hui Ying has been painting since 2008 and completed her BFA at the University of Hartford, Connecticut. Through her oil paintings, she explores her identity through painting, and illustrating local spots she draws inspiration from both her adopted family's culture and her heritage. Through this series, she blends 17th-century European Baroque art with site-specific locations from her travels. ",
+      "link": "https://www.instagram.com/hui_ying.h/",
+      "artworks": [
+        {
+          "title": "Untitled (The Blue Door)",
+          "filename": "artist5_artwork1.jpg",
+          "details": "6.5x5 oil on board",
+          "price" : ""
         },
         {
-          "title": "Fall Fairy",
-          "filename" : "artist0_artwork4.jpg",
-          "details": "8 1/2 x 11\" Riso print",
-          "price" : "$30"
+          "title": "Somewhere: In Mercado De San Miguel (The Fisherman)",
+          "filename": "artist5_artwork2.jpg",
+          "details": "7.5x5 oil on board",
+          "price" : ""
+        },
+        {
+          "title": "Somewhere: Off of Rodeo Dr.",
+          "filename": "artist5_artwork3.jpg",
+          "details": "7.5x5 oil on board",
+          "price" : ""
         }
       ]
     }

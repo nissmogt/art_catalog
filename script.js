@@ -10,8 +10,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const description = document.createElement('p');
         description.classList.add('event-description');
         description.innerHTML = `
-            Welcome to our inaugural art event, where we aim to build a vibrant local community of artists and enthusiasts. 
-            Tonight, we celebrate each other through artistic expression.<br><br>
+            Welcome to our third Art & Sip, where we aim to build a vibrant local community of artists and art enthusiasts. 
+            Today, we celebrate each other through artistic expression.<br><br>
             Our theme, "An Introduction to You," invites artists to share their unique perspectives and creative voices. 
             Each piece you'll see answers the question: <em>"How would you introduce someone to your art?"</em><br><br>
             As you explore the diverse works on display, you'll get a glimpse into the artistic journey of each creator. 
