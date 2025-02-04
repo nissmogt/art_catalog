@@ -15,10 +15,10 @@ The project consists of the following main files:
 To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your-username/art-sip-catalog.git
+git clone https://github.com/nissmogt/art_catalog.git
 
 2. Navigate to the project directory:
-cd art-sip-catalog
+cd art_catalog
 
 3. Open `index.html` in your preferred web browser.
 
