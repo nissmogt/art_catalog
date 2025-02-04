@@ -18,7 +18,6 @@ To get a local copy up and running, follow these steps:
 git clone https://github.com/nissmogt/art_catalog.git
 
 2. Navigate to the project directory:
-cd art_catalog
 
 3. Open `index.html` in your preferred web browser.
 
